@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Start city","order":2,"parentId":0,"scrollX":1390,"scrollY":1619.5},
-{"id":2,"expanded":true,"name":"House","order":1,"parentId":0,"scrollX":1109,"scrollY":1232.5},
-{"id":3,"expanded":true,"name":"Library","order":3,"parentId":0,"scrollX":1109,"scrollY":512.5},
-{"id":4,"expanded":true,"name":"dungeon 1","order":4,"parentId":3,"scrollX":973.1999999999999,"scrollY":757.8},
+{"id":1,"expanded":true,"name":"Start city","order":2,"parentId":0,"scrollX":973.1999999999999,"scrollY":1503},
+{"id":2,"expanded":true,"name":"House","order":1,"parentId":0,"scrollX":973.1999999999999,"scrollY":1133.3999999999999},
+{"id":3,"expanded":true,"name":"Library","order":3,"parentId":0,"scrollX":982.8,"scrollY":546.6},
+{"id":4,"expanded":true,"name":"dungeon 1","order":4,"parentId":3,"scrollX":973.1999999999999,"scrollY":652.1999999999999},
 {"id":5,"expanded":false,"name":"MAP005","order":5,"parentId":4,"scrollX":1404,"scrollY":780.5}
 ]
